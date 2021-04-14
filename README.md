@@ -1,4 +1,4 @@
-### Hi there 👋
+![Vzamanillo GitHub stats](https://github-readme-stats.vercel.app/api?username=vzamanillo&show_icons=true)
 
 <!--
 **vzamanillo/vzamanillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
