@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vzamanillo&langs_count=8&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vzamanillo&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vzamanillo&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **vzamanillo/vzamanillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
